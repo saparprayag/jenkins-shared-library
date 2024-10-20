@@ -1,4 +1,3 @@
-def hello()
-{
-  echo "Hello dosto"
+def call() {
+    echo "Hello from the shared library!"
 }
